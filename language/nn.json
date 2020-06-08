@@ -39,7 +39,7 @@
                 "description": "Melding som visast under svaret på \"check\" om svaret er valt."
               },
               {
-                "label": "Melding som visast hvis svaret ikkje er valgt",
+                "label": "Melding som blir vist om svaret ikkje er valt",
                 "description": "Melding som visast under svaret på \"check\" om andre svar er valt."
               }
             ]
